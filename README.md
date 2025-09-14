@@ -62,8 +62,6 @@
 
 ## 🚀 Projects
 
-## 🚀 Projects
-
 - 🎮 **Educational Game with Pygame + OpenCV** — interactive learning using a webcam.  
   `Python` `Pygame` `OpenCV` • [Repo](https://github.com/maryamahmed0/Catch-the-cuties)
 
