@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/maryamahmed0">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social&label=Follow" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/maryamahmed0?style=social&label=Follow" alt="GitHub followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&label=Views&color=ff66b2" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=maryamahmed0&style=flat&label=Views&color=ff66b2" alt="Profile views"/>
 </p>
 
 ---
@@ -62,14 +62,16 @@
 
 ## 🚀 Projects
 
+## 🚀 Projects
+
 - 🎮 **Educational Game with Pygame + OpenCV** — interactive learning using a webcam.  
-  `Python` `Pygame` `OpenCV` • [Repo](LINK_TO_REPO)
+  `Python` `Pygame` `OpenCV` • [Repo](https://github.com/maryamahmed0/Catch-the-cuties)
 
-- 🖥️ **Custom Programming Language** — lexer + parser + simple VM with examples.  
-  `C++` • [Repo](LINK_TO_REPO)
+- 🐍 **Snake Game (Assembly)** — classic snake game built entirely with Assembly language, focusing on low-level logic & graphics.  
+  `Assembly` `x86` • [Repo](https://github.com/maryamahmed0/Assymbly8086_SnakeGame)
 
-- 🎨 **Game Jams & Prototypes** — small polished experiments and jam entries.  
-  `Unity` `C#` • [Repo](LINK_TO_REPO)
+- 📇 **Contact Manager (OOP in C#)** — desktop app to add, edit, and manage contacts, applying object-oriented principles.  
+  `C#` `OOP` `WinForms/WPF` • [Repo](https://github.com/maryamahmed0/Contact-Manager)
 
 
 ---
