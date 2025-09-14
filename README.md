@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=maryamahmed0E&show_icons=true&title_color=ff4da6&icon_color=ff66b2&text_color=ffffff&bg_color=0d1117&border_color=ff66b2" alt="Maryam's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=maryamahmed0&show_icons=true&title_color=ff4da6&icon_color=ff66b2&text_color=ffffff&bg_color=0d1117&border_color=ff66b2" alt="Maryam's GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamahmed0&layout=compact&title_color=ff4da6&text_color=ffffff&bg_color=0d1117&border_color=ff66b2" alt="Maryam's Top Languages" />
