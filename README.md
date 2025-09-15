@@ -12,12 +12,7 @@
 </div>
 
 ---
-<!-- داخل الوضع الداكن -->
-<p align="center">
-  <img width="400"
-       src="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/github-contribution-grid-snake-dark.svg"
-       alt="snake"/>
-</p
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
@@ -114,13 +109,4 @@ Feel free to reach out — I'm always happy to connect with fellow devs & artist
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Thanks for visiting! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation"
-       src="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/github-contribution-grid-snake.svg">
-</picture>
 
