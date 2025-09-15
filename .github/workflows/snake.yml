@@ -6,14 +6,20 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write            # لازم عشان نقدر نـpush
+  contents: write            # لازم عشان يقدر يـpush
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write        # تأكيد تاني على مستوى الـjob
 
     steps:
+      # (اختياري) Checkout — مش ضروري، بس بيفيد لو فيه قواعد حماية/إعدادات repo
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate SVGs
         uses: Platane/snk/svg-only@v3
         with:
@@ -26,13 +32,13 @@ jobs:
 
       - name: Check generated files (diagnostic)
         run: |
+          echo "Root:"
           ls -la
           echo "---- dist ----"
-          ls -la dist
+          ls -la dist || true
           test -s dist/github-contribution-grid-snake.svg
           test -s dist/github-contribution-grid-snake-dark.svg
 
-      # ناشر موثوق وثابت
       - name: Publish to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
