@@ -13,16 +13,24 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me</h2>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-- 🌱 I'm currently learning **Game Development using Unity**
+- 🌱 I'm currently learning **Game Development using Unity**  
 - 👯 I'm looking to collaborate on **game development projects, open-source, and creative ideas**  
-- 💬 Ask me about **C#, Game Design, Game Art basics, and Problem Solving**
+- 💬 Ask me about **C#, Game Design, Game Art basics, and Problem Solving**  
 - 🎮 I enjoy building cozy, polished mini-games and joining **game jams**
 
-<br clear="both"/>
+    </td>
+    <td width="40%" align="right">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
