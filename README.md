@@ -107,7 +107,16 @@ Feel free to reach out — I'm always happy to connect with fellow devs & artist
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-dark.svg?ts=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-light.svg?ts=2" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-dark.svg?ts=2" width="720" />
+  </picture>
+  <br/>
+  <sub>updates every 12 hours · themed to match my profile ✨</sub>
+</div>
+
 
 ---
 
