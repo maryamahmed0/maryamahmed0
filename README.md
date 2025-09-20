@@ -107,13 +107,7 @@ Feel free to reach out — I'm always happy to connect with fellow devs & artist
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-light.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-dark.svg" />
-  </picture>
-</p>
+![Snake animation](https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake.svg)
 
 ---
 
