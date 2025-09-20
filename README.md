@@ -1,4 +1,6 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=FF4DA6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maryam!+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Unity+Enthusiast+%E2%9A%99%EF%B8%8F;C%23+Lover+%F0%9F%92%8E" alt="Typing SVG" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=FF4DA6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maryam!+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Unity+Enthusiast+%E2%9A%99%EF%B8%8F;C%23+Lover+%F0%9F%92%8E" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pmOHByOHh6dTcxbmQxcGxtdTM0cTNxdTRsY3hqcWk4cWdteDd3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ZLrD6D1EPXaOPfsl9/giphy.gif" alt="GIF" width="500"/>
@@ -6,7 +8,7 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/maryamahmed0?style=social&label=Follow)](https://github.com/maryamahmed0)
+[![GitHub followers](https://img.shields.io/github/followers/maryamahmed0?style=social&label=Follow)](https://github.com/maryamahmed0)  
 ![Profile views](https://komarev.com/ghpvc/?username=maryamahmed0&style=flat&label=Views&color=ff66b2)
 
 </div>
@@ -24,15 +26,14 @@
 
 <br clear="both"/>
 
-
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-ff66b2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maryam.ahmed.86248/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-ahmed-648435266/)
+[![Facebook](https://img.shields.io/badge/Facebook-ff66b2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maryam.ahmed.86248/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-ahmed-648435266/)  
 [![Email](https://img.shields.io/badge/Email-Contact%20me-ffa6c9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamahmedb17@gmail.com)
 
 </div>
@@ -43,9 +44,9 @@
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/-C%23-ff4da6?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-ff66b2?style=for-the-badge&logo=unity&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-ff4da6?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-ff4da6?style=for-the-badge&logo=csharp&logoColor=white)  
+![Unity](https://img.shields.io/badge/-Unity-ff66b2?style=for-the-badge&logo=unity&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-ff4da6?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-ff66b2?style=for-the-badge&logo=code&logoColor=white)
 
 </div>
@@ -90,9 +91,10 @@
 
 - 🎮 Currently working on a **game for a competition** — polishing mechanics & visuals  
 - 🎓 Starting my **graduation project** soon  
-- 📚 Learning more about **2D/3D development, advanced game programming & Unity networking** 
+- 📚 Learning more about **2D/3D development, advanced game programming & Unity networking**
 
 ---
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Collaborate
 
@@ -105,9 +107,18 @@ Feel free to reach out — I'm always happy to connect with fellow devs & artist
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-light.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
 <div align="center">
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Thanks for visiting! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 </div>
-
