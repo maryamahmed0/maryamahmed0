@@ -87,15 +87,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> What I'm Up To
-
-- 🎮 Currently working on a **game for a competition** — polishing mechanics & visuals  
-- 🎓 Starting my **graduation project** soon  
-- 📚 Learning more about **2D/3D development, advanced game programming & Unity networking**
-
----
-
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Collaborate
 
 If you enjoy **cozy vibes, game jams, and creative coding**,  
