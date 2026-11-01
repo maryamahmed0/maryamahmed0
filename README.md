@@ -1,21 +1,23 @@
+# Hi there, I'm Maryam! 👋
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=FF8FB8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Maryam!+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Unity+Developer+%E2%9A%99%EF%B8%8F;C%23+Programmer+%F0%9F%92%8E;Turning+Ideas+Into+Games+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<!-- To change this GIF: on giphy.com open a GIF, copy its ID from the URL (the text after the last dash),
-     then use https://media.giphy.com/media/<ID>/giphy.gif as the src below. -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pmOHByOHh6dTcxbmQxcGxtdTM0cTNxdTRsY3hqcWk4cWdteDd3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ZLrD6D1EPXaOPfsl9/giphy.gif" alt="GIF" width="500"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/maryamahmed0"><img src="https://img.shields.io/github/followers/maryamahmed0?style=social&label=Follow" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=maryamahmed0&style=flat&label=Views&color=FF8FB8" alt="Profile views" />
+  <a href="https://github.com/maryamahmed0">
+    <img src="https://img.shields.io/github/followers/maryamahmed0?style=social&label=Follow" alt="GitHub followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=maryamahmed0&style=flat&label=Views&color=FF8FB8" alt="Profile views"/>
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+## 🌸 About Me
 
 - 🎓 Computer Science Graduate from **Mansoura University**.
 - 🌸 Currently enrolled in **ITI's 9-Month Professional Training Program – Game Programming Track (Intake 47)**.
@@ -31,18 +33,20 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Technologies & Tools
+## 🛠️ Technologies & Tools
 
-![C#](https://img.shields.io/badge/-C%23-FF8FB8?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-F4799F?style=for-the-badge&logo=unity&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-FFB6D0?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-E75480?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-FF8FB8?style=for-the-badge&logo=github&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-F4799F?style=for-the-badge&logo=code&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-C%23-FF8FB8?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/-Unity-F4799F?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/-C++-FFB6D0?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/-Git-E75480?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-GitHub-FF8FB8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-Problem%20Solving-F4799F?style=for-the-badge&logo=code&logoColor=white" alt="Problem Solving"/>
+</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Featured Projects
+## 🎮 Featured Projects
 
 ### 🏢 SyncVerse — Graduation Project
 
@@ -87,11 +91,11 @@ A classic Snake game built entirely using Assembly language, focusing on low-lev
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> GitHub Stats & Top Languages
+## 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=maryamahmed0&show_icons=true&title_color=FF8FB8&icon_color=FFB6D0&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Maryam's GitHub Stats" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=maryamahmed0&layout=compact&title_color=FF8FB8&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" alt="Maryam's Top Languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=maryamahmed0&show_icons=true&title_color=FF8FB8&icon_color=FFB6D0&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Maryam's GitHub Stats"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=maryamahmed0&layout=compact&title_color=FF8FB8&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" alt="Maryam's Top Languages"/>
 </p>
 
 <p align="center">
@@ -100,9 +104,9 @@ A classic Snake game built entirely using Assembly language, focusing on low-lev
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Community & Leadership
+## 🌸 Community & Leadership
 
-- 🌸 **CAT Reloaded – Game Development Circle**
+- **CAT Reloaded – Game Development Circle**
   - Progressed from Circle Member to **Head of the Game Development Circle**.
   - Mentored around 10 members in their game development journey.
   - Delivered a session introducing 2D game development concepts.
@@ -110,7 +114,7 @@ A classic Snake game built entirely using Assembly language, focusing on low-lev
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Collaborate
+## 🤝 Let's Collaborate
 
 If you enjoy **game development, creative coding, and game jams**, I'd love to team up for:
 
@@ -123,23 +127,35 @@ Feel free to reach out — I'm always happy to connect with fellow developers an
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me
+## 💌 Connect with me
 
-[![Facebook](https://img.shields.io/badge/Facebook-FF8FB8?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maryam.ahmed.86248/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F4799F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-ahmed-648435266/)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-FFB6D0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamahmedb17@gmail.com)
-[![Itch.io](https://img.shields.io/badge/Itch.io-E75480?style=for-the-badge&logo=itch.io&logoColor=white)](https://maryamahmed0.itch.io)
+<p align="center">
+  <a href="https://www.facebook.com/maryam.ahmed.86248/">
+    <img src="https://img.shields.io/badge/Facebook-FF8FB8?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/maryam-ahmed-648435266/">
+    <img src="https://img.shields.io/badge/LinkedIn-F4799F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:maryamahmedb17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-FFB6D0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://maryamahmed0.itch.io">
+    <img src="https://img.shields.io/badge/Itch.io-E75480?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-dark.svg?ts=5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-light.svg?ts=5" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-dark.svg?ts=5" width="720" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-dark.svg?ts=5"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-light.svg?ts=5"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-dark.svg?ts=5" width="720"/>
   </picture>
 </p>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Thanks for visiting! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand"/>
+  Thanks for visiting!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand"/>
 </h3>
