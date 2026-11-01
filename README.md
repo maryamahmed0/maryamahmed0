@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=FF4DA6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maryam!+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Unity+Enthusiast+%E2%9A%99%EF%B8%8F;C%23+Lover+%F0%9F%92%8E" alt="Typing SVG" />
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=FF4DA6&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Maryam!+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Unity+Developer+%E2%9A%99%EF%B8%8F;C%23+Programmer+%F0%9F%92%8E;Turning+Ideas+Into+Games+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/maryamahmed0?style=social&label=Follow)](https://github.com/maryamahmed0)  
+[![GitHub followers](https://img.shields.io/github/followers/maryamahmed0?style=social&label=Follow)](https://github.com/maryamahmed0)
 ![Profile views](https://komarev.com/ghpvc/?username=maryamahmed0&style=flat&label=Views&color=ff66b2)
 
 </div>
@@ -19,10 +19,13 @@
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🌱 I'm currently learning **Game Development using Unity**  
-- 👯 I'm looking to collaborate on **game development projects, open-source, and creative ideas**  
-- 💬 Ask me about **C#, Game Design, Game Art basics, and Problem Solving**  
-- 🎮 I enjoy building cozy, polished mini-games and joining **game jams**
+- 🎓 Computer Science Graduate from **Mansoura University**.
+- 🌸 Currently enrolled in **ITI's 9-Month Professional Training Program – Game Programming Track (Intake 47)**.
+- 🎮 Passionate about developing games using **Unity and C#**.
+- 💻 Interested in Game Programming, OOP, Data Structures, and Problem Solving.
+- 🌱 Always exploring new techniques and improving my game development skills.
+- 👯 Open to collaborating on game development projects, game jams, and creative ideas.
+- ✨ I enjoy turning creative ideas into fun and engaging gaming experiences.
 
 <br clear="both"/>
 
@@ -32,9 +35,10 @@
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-ff66b2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maryam.ahmed.86248/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-ahmed-648435266/)  
+[![Facebook](https://img.shields.io/badge/Facebook-ff66b2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maryam.ahmed.86248/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-ahmed-648435266/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-ffa6c9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamahmedb17@gmail.com)
+[![Itch.io](https://img.shields.io/badge/Itch.io-ff66b2?style=for-the-badge&logo=itch.io&logoColor=white)](https://maryamahmed0.itch.io)
 
 </div>
 
@@ -44,9 +48,11 @@
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/-C%23-ff4da6?style=for-the-badge&logo=csharp&logoColor=white)  
-![Unity](https://img.shields.io/badge/-Unity-ff66b2?style=for-the-badge&logo=unity&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-ff4da6?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-ff4da6?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-ff66b2?style=for-the-badge&logo=unity&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-ff4da6?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-ff66b2?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-ff4da6?style=for-the-badge&logo=github&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-ff66b2?style=for-the-badge&logo=code&logoColor=white)
 
 </div>
@@ -76,25 +82,50 @@
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Projects
 
-- 🎮 **Educational Game with Pygame + OpenCV** — interactive learning using a webcam  
-  `Python` `Pygame` `OpenCV` • [Repo](https://github.com/maryamahmed0/Catch-the-cuties)
+- 🍊 **Overripe** — A 2D fruit-themed platformer where time is your health. Fight corrupted fruit bosses, manage your remaining time, and uncover the story behind the rot.
 
-- 🐍 **Snake Game (Assembly)** — classic snake game built entirely with Assembly language, focusing on low-level logic & graphics  
-  `Assembly` `x86` • [Repo](https://github.com/maryamahmed0/Assymbly8086_SnakeGame)
+  `Unity` `C#` `2D Game Development` `Game Jam`
 
-- 📇 **Contact Manager (OOP in C#)** — desktop app to add, edit, and manage contacts, applying object-oriented principles  
-  `C#` `OOP` `WinForms/WPF` • [Repo](https://github.com/maryamahmed0/Contact-Manager)
+  [Play on Itch.io](https://maryamahmed0.itch.io/overripe)
+
+- 🐺 **HEARTBOUND** — A 2D roguelite inspired by Egyptian mythology, featuring Anubis, the Duat, and Set. Developed during the IEEE Victories Game Jam.
+
+  `Unity` `C#` `2D Roguelite` `Game Design`
+
+- 🎮 **Educational Game with Pygame + OpenCV** — An interactive educational game that uses a webcam to create an engaging learning experience.
+
+  `Python` `Pygame` `OpenCV`
+
+  [Repository](https://github.com/maryamahmed0/Catch-the-cuties)
+
+- 🐍 **Snake Game (Assembly)** — A classic Snake game built using Assembly language, focusing on low-level programming logic and graphics.
+
+  `Assembly` `x86`
+
+  [Repository](https://github.com/maryamahmed0/Assymbly8086_SnakeGame)
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Community & Leadership
+
+- 🌸 **CAT Reloaded – Game Development Circle**
+  - Progressed from Circle Member to **Head of the Game Development Circle**.
+  - Mentored around 10 members in their game development journey.
+  - Delivered a session introducing 2D game development concepts.
+  - Contributed to organizing and supporting community activities, including CAT Station.
 
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Collaborate
 
-If you enjoy **cozy vibes, game jams, and creative coding**,  
-I'd love to team up for:
-- 🎮 **Game jam entries & competitions**  
-- 🌱 Exploring **2D / 3D game development** & advanced programming  
+If you enjoy **game development, creative coding, and game jams**, I'd love to team up for:
 
-Feel free to reach out — I'm always happy to connect with fellow devs & artists! 🌷
+- 🎮 Game jam entries and competitions.
+- 🌱 Exploring new ideas in 2D and 3D game development.
+- 💻 Building creative projects with Unity and C#.
+- ✨ Learning, experimenting, and creating memorable gaming experiences.
+
+Feel free to reach out — I'm always happy to connect with fellow developers and artists! 🌷
 
 ---
 
