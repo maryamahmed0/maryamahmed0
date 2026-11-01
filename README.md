@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D0&height=120&section=header" width="100%" alt="header" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=FF8FB8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Maryam!+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Unity+Developer+%E2%9A%99%EF%B8%8F;C%23+Programmer+%F0%9F%92%8E;Turning+Ideas+Into+Games+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
+<!-- To change this GIF: on giphy.com open a GIF, copy its ID from the URL (the text after the last dash),
+     then use https://media.giphy.com/media/<ID>/giphy.gif as the src below. -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pmOHByOHh6dTcxbmQxcGxtdTM0cTNxdTRsY3hqcWk4cWdteDd3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ZLrD6D1EPXaOPfsl9/giphy.gif" alt="GIF" width="500"/>
 </p>
@@ -19,23 +17,23 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me 🎀
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🎀 Computer Science Graduate from **Mansoura University**.
+- 🎓 Computer Science Graduate from **Mansoura University**.
 - 🌸 Currently enrolled in **ITI's 9-Month Professional Training Program – Game Programming Track (Intake 47)**.
 - 🎮 Passionate about developing games using **Unity and C#**.
-- 💗 Interested in Game Programming, OOP, Data Structures, and Problem Solving.
-- 🌷 Always exploring new techniques and improving my game development skills.
-- 🫶 Open to collaborating on game development projects, game jams, and creative ideas.
+- 💻 Interested in Game Programming, OOP, Data Structures, and Problem Solving.
+- 🌱 Always exploring new techniques and improving my game development skills.
+- 👯 Open to collaborating on game development projects, game jams, and creative ideas.
 - ✨ I enjoy turning creative ideas into fun and engaging gaming experiences.
 
 <br clear="both"/>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me 💌
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me
 
 <div align="center">
 
@@ -48,7 +46,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Technologies & Tools 💻
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Technologies & Tools
 
 <div align="center">
 
@@ -63,7 +61,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> GitHub Stats & Top Languages 💖
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> GitHub Stats & Top Languages
 
 <div align="center">
 
@@ -79,7 +77,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Featured Projects 🌸
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Featured Projects
 
 <div align="center">
 
@@ -136,7 +134,7 @@ A classic Snake game built entirely using Assembly language, focusing on low-lev
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Community & Leadership 🎀
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Community & Leadership
 
 - 🌸 **CAT Reloaded – Game Development Circle**
   - Progressed from Circle Member to **Head of the Game Development Circle**.
@@ -146,16 +144,16 @@ A classic Snake game built entirely using Assembly language, focusing on low-lev
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Collaborate 💕
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Collaborate
 
 If you enjoy **game development, creative coding, and game jams**, I'd love to team up for:
 
 - 🎮 Game jam entries and competitions.
-- 🌷 Exploring new ideas in 2D and 3D game development.
-- 💗 Building creative projects with Unity and C#.
+- 🌱 Exploring new ideas in 2D and 3D game development.
+- 💻 Building creative projects with Unity and C#.
 - ✨ Learning, experimenting, and creating memorable gaming experiences.
 
-Feel free to reach out — I'm always happy to connect with fellow developers and artists! 🌷
+Feel free to reach out — I'm always happy to connect with fellow developers and artists!
 
 ---
 
@@ -169,10 +167,6 @@ Feel free to reach out — I'm always happy to connect with fellow developers an
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Thanks for visiting! 🎀 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Thanks for visiting! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D0&height=120&section=footer" width="100%" alt="footer" />
-</p>
