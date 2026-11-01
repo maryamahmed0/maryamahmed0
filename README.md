@@ -75,10 +75,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=maryamahmed0&background=0D1117&ring=ff4da6&fire=ff66b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff66b2&sideLabels=ff4da6&dates=cccccc&border=ff66b2&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Featured Projects
