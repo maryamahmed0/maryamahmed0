@@ -1,4 +1,3 @@
-```html
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=F7A8C4&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Maryam!+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Unity+Developer+%E2%9A%99%EF%B8%8F;C%23+Programmer+%F0%9F%92%8E;Turning+Ideas+Into+Games+%E2%9C%A8" alt="Typing SVG" />
 </p>
