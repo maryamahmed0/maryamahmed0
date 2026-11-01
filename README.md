@@ -24,7 +24,7 @@
 <td width="65%" valign="middle">
 
 - 🎓 CS Graduate from **Mansoura University**.
-- 🌸 ITI 9-Month Professional Training Program – **Game Programming Track (Intake 47)**.
+- 🌸 ITI 9-Month Professional Training Program - **Game Programming Track (Intake 47)**.
 - 🎮 Game Developer passionate about **Unity and C#**.
 - 💻 Interested in OOP, Data Structures, and Problem Solving.
 - 🌱 Always learning and improving my game development skills.
@@ -89,7 +89,7 @@
 <tr>
 <td colspan="2" valign="top">
 
-### 🏢 SyncVerse — Graduation Project
+### 🏢 SyncVerse - Graduation Project
 
 A collaborative platform featuring a multiplayer **2D Virtual Office** built with Unity, allowing team members to interact, collaborate, manage tasks, and attend virtual meetings. Includes multiplayer networking and AI-powered meeting features.
 
@@ -138,7 +138,7 @@ An interactive educational game that uses a webcam to create an engaging learnin
 </td>
 <td valign="top" width="50%">
 
-### 🐍 Snake Game — Assembly
+### 🐍 Snake Game - Assembly
 
 A classic Snake game built entirely using Assembly language, focusing on low-level programming logic and graphics.
 
@@ -154,7 +154,7 @@ A classic Snake game built entirely using Assembly language, focusing on low-lev
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Community & Leadership
 
-- 🌸 **CAT Reloaded – Game Development Circle**
+- 🌸 **CAT Reloaded - Game Development Circle**
   - Progressed from Circle Member to **Head of the Game Development Circle**.
   - Mentored around 10 members in their game development journey.
   - Delivered a session introducing 2D game development concepts.
