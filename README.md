@@ -80,30 +80,50 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Projects
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Featured Projects
 
-- 🍊 **Overripe** — A 2D fruit-themed platformer where time is your health. Fight corrupted fruit bosses, manage your remaining time, and uncover the story behind the rot.
+### 🏢 SyncVerse — Graduation Project
+A collaborative platform featuring a multiplayer **2D Virtual Office** built with Unity, allowing team members to interact, collaborate, manage tasks, and attend virtual meetings. Includes multiplayer networking and AI-powered meeting features.
 
-  `Unity` `C#` `2D Game Development` `Game Jam`
+`Unity` `C#` `Netcode for GameObjects` `ASP.NET Core` `Entity Framework` `AI`
 
-  [Play on Itch.io](https://maryamahmed0.itch.io/overripe)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-ff4da6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/VirtualOffice)
 
-- 🐺 **HEARTBOUND** — A 2D roguelite inspired by Egyptian mythology, featuring Anubis, the Duat, and Set. Developed during the IEEE Victories Game Jam.
+### 🍊 Overripe
+A 2D fruit-themed platformer where time is your health. Fight corrupted fruit bosses, manage your remaining time, and uncover the story behind the rot.
 
-  `Unity` `C#` `2D Roguelite` `Game Design`
+`Unity` `C#` `2D Game Development` `Game Jam`
 
-- 🎮 **Educational Game with Pygame + OpenCV** — An interactive educational game that uses a webcam to create an engaging learning experience.
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-ff66b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/overripe)
+[![Itch.io](https://img.shields.io/badge/Itch.io-Play%20Game-ffa6c9?style=for-the-badge&logo=itch.io&logoColor=white)](https://maryamahmed0.itch.io/overripe)
 
-  `Python` `Pygame` `OpenCV`
+### 🐺 HEARTBOUND
+A 2D roguelite inspired by Egyptian mythology, featuring Anubis, the Duat, and Set. Developed during the IEEE Victories Game Jam.
 
-  [Repository](https://github.com/maryamahmed0/Catch-the-cuties)
+`Unity` `C#` `2D Roguelite` `Game Design`
 
-- 🐍 **Snake Game (Assembly)** — A classic Snake game built using Assembly language, focusing on low-level programming logic and graphics.
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-ff4da6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/HeartBound)
 
-  `Assembly` `x86`
+### 🎮 Educational Game — Pygame + OpenCV
+An interactive educational game that uses a webcam to create an engaging learning experience.
 
-  [Repository](https://github.com/maryamahmed0/Assymbly8086_SnakeGame)
+`Python` `Pygame` `OpenCV`
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-ff66b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/Catch-the-cuties)
+
+### 🐍 Snake Game — Assembly
+A classic Snake game built entirely using Assembly language, focusing on low-level programming logic and graphics.
+
+`Assembly` `x86`
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-ff4da6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/Assymbly8086_SnakeGame)
+
+### 📇 Contact Manager — C#
+A desktop application to add, edit, and manage contacts while applying object-oriented programming principles.
+
+`C#` `OOP` `WinForms / WPF`
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-ff66b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/Contact-Manager)
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Community & Leadership
