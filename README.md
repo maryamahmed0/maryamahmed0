@@ -19,7 +19,9 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<img align="right" alt="Coding" width="320" src="https://media1.tenor.com/m/CiJuhjUFaeIAAAAC/gojo-satoru-jujutsu-kaisen.gif">
+<table>
+<tr>
+<td valign="top">
 
 - 🎓 Computer Science Graduate from **Mansoura University**.
 - 🌸 Currently enrolled in **ITI's 9-Month Professional Training Program – Game Programming Track (Intake 47)**.
@@ -29,7 +31,14 @@
 - 👯 Open to collaborating on game development projects, game jams, and creative ideas.
 - ✨ I enjoy turning creative ideas into fun and engaging gaming experiences.
 
-<br clear="both"/>
+</td>
+<td valign="middle" align="center" width="420">
+
+<img alt="Coding" width="400" src="https://media1.tenor.com/m/CiJuhjUFaeIAAAAC/gojo-satoru-jujutsu-kaisen.gif">
+
+</td>
+</tr>
+</table>
 
 ---
 
