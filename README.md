@@ -104,7 +104,7 @@ A 2D roguelite inspired by Egyptian mythology, featuring Anubis, the Duat, and S
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-ff4da6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/HeartBound)
 
-### 🎮 Educational Game — Pygame + OpenCV
+### 🎮 Catch the cuties
 An interactive educational game that uses a webcam to create an engaging learning experience.
 
 `Python` `Pygame` `OpenCV`
@@ -118,12 +118,7 @@ A classic Snake game built entirely using Assembly language, focusing on low-lev
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-ff4da6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/Assymbly8086_SnakeGame)
 
-### 📇 Contact Manager — C#
-A desktop application to add, edit, and manage contacts while applying object-oriented programming principles.
 
-`C#` `OOP` `WinForms / WPF`
-
-[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-ff66b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/Contact-Manager)
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Community & Leadership
