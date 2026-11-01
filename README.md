@@ -59,20 +59,21 @@
 
 ---
 
+
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> GitHub Stats & Top Languages
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=maryamahmed0&show_icons=true&title_color=ff4da6&icon_color=ff66b2&text_color=ffffff&bg_color=0d1117&border_color=ff66b2&hide_border=true&include_all_commits=true&count_private=true" alt="Maryam's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamahmed0&layout=compact&title_color=ff4da6&text_color=ffffff&bg_color=0d1117&border_color=ff66b2&hide_border=true&langs_count=8" alt="Maryam's Top Languages" />
-      </td>
-    </tr>
-  </table>
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=maryamahmed0&show_icons=true&title_color=ff4da6&icon_color=ff66b2&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Maryam's GitHub Stats" />
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=maryamahmed0&layout=compact&title_color=ff4da6&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" alt="Maryam's Top Languages" />
+
 </div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=maryamahmed0&background=0D1117&ring=ff4da6&fire=ff66b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff66b2&sideLabels=ff4da6&dates=cccccc&border=ff66b2&hide_border=true&timezone=Africa%2FCairo" alt="GitHub Streak"/>
+</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=maryamahmed0&background=0D1117&ring=ff4da6&fire=ff66b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff66b2&sideLabels=ff4da6&dates=cccccc&border=ff66b2&hide_border=true" alt="GitHub Streak"/>
