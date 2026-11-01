@@ -171,7 +171,7 @@ If you enjoy **game development, creative coding, and game jams**, I'd love to t
 - 💻 Building creative projects with Unity and C#.
 - ✨ Learning, experimenting, and creating memorable gaming experiences.
 
-Feel free to reach out — I'm always happy to connect with fellow developers and artists!
+Feel free to reach out - I'm always happy to connect with fellow developers and artists!
 
 ---
 
