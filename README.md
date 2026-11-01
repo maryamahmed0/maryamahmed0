@@ -79,17 +79,19 @@
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Featured Projects
 
-<div align="center">
-
 ### 🏢 SyncVerse — Graduation Project
 
 A collaborative platform featuring a multiplayer **2D Virtual Office** built with Unity, allowing team members to interact, collaborate, manage tasks, and attend virtual meetings. Includes multiplayer networking and AI-powered meeting features.
 
 `Unity` `C#` `Netcode for GameObjects` `ASP.NET Core` `Entity Framework` `AI`
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-FF8FB8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/VirtualOffice)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-FF8FB8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/VirtualOffice)
 
 <br />
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### 🍊 Overripe
 
@@ -97,10 +99,11 @@ A 2D fruit-themed platformer where time is your health. Fight corrupted fruit bo
 
 `Unity` `C#` `2D Game Development` `Game Jam`
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-F4799F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/overripe)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-F4799F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/overripe)
 [![Itch.io](https://img.shields.io/badge/Itch.io-Play%20Game-FFB6D0?style=for-the-badge&logo=itch.io&logoColor=white)](https://maryamahmed0.itch.io/overripe)
 
-<br />
+</td>
+<td valign="top" width="50%">
 
 ### 🐺 HEARTBOUND
 
@@ -108,9 +111,12 @@ A 2D roguelite inspired by Egyptian mythology, featuring Anubis, the Duat, and S
 
 `Unity` `C#` `2D Roguelite` `Game Design`
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-FF8FB8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/HeartBound)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-FF8FB8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/HeartBound)
 
-<br />
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 ### 🎮 Catch the cuties
 
@@ -118,9 +124,10 @@ An interactive educational game that uses a webcam to create an engaging learnin
 
 `Python` `Pygame` `OpenCV`
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-F4799F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/Catch-the-cuties)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-F4799F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/Catch-the-cuties)
 
-<br />
+</td>
+<td valign="top" width="50%">
 
 ### 🐍 Snake Game — Assembly
 
@@ -128,9 +135,11 @@ A classic Snake game built entirely using Assembly language, focusing on low-lev
 
 `Assembly` `x86`
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-FF8FB8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/Assymbly8086_SnakeGame)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-FF8FB8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/Assymbly8086_SnakeGame)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
