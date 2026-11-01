@@ -1,115 +1,183 @@
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=FF4DA6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I](https://readme-typing-svg.herokuapp.com?font=Arial\&size=28\&duration=3000\&pause=1000\&color=FF4DA6\&center=true\&vCenter=true\&width=600\&lines=Hi+there%2C+I)'m+Maryam!+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Unity+Enthusiast+%E2%9A%99%EF%B8%8F;C%23+Lover+%F0%9F%92%8E" alt="Typing SVG" />
-\</p>
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=F7A8C4&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Maryam!+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Unity+Developer+%E2%9A%99%EF%B8%8F;C%23+Programmer+%F0%9F%92%8E;Turning+Ideas+Into+Games+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pmOHByOHh6dTcxbmQxcGxtdTM0cTNxdTRsY3hqcWk4cWdteDd3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ZLrD6D1EPXaOPfsl9/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pmOHByOHh6dTcxbmQxcGxtdTM0cTNxdTRsY3hqcWk4cWdteDd3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ZLrD6D1EPXaOPfsl9/giphy.gif)" alt="GIF" width="500"/>
-\</p>
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Featured Projects
 
-\<div align="center">
+### 🏢 SyncVerse — Graduation Project
 
-[![GitHub followers]\([https://img.shields.io/github/followers/maryamahmed0?style=social&label=Follow)\](https://github.com/maryamahmed0](https://img.shields.io/github/followers/maryamahmed0?style=social\&label=Follow\)]\(https://github.com/maryamahmed0)) &#x20;
-![Profile views]\([https://komarev.com/ghpvc/?username=maryamahmed0&style=flat&label=Views&color=ff66b2](https://komarev.com/ghpvc/?username=maryamahmed0\&style=flat\&label=Views\&color=ff66b2))
+A collaborative platform featuring a multiplayer **2D Virtual Office** built with Unity, allowing team members to interact, collaborate, manage tasks, and attend virtual meetings. Includes multiplayer networking and AI-powered meeting features.
 
-\</div>
+`Unity` `C#` `Netcode for GameObjects` `ASP.NET Core` `Entity Framework` `AI`
 
-\---
+### 🍊 Overripe
 
-\## \<img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)" width="40"> About Me
+A 2D fruit-themed platformer where time is your health. Fight corrupted fruit bosses, manage your remaining time, and uncover the story behind the rot.
 
-\<img align="right" alt="Coding" width="320" src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)">
+`Unity` `C#` `2D Game Development` `Game Jam`
 
-\- 🌱 I'm currently learning \*\*Game Development using Unity\*\* &#x20;
-\- 👯 I'm looking to collaborate on \*\*game development projects, open-source, and creative ideas\*\* &#x20;
-\- 💬 Ask me about \*\*C#, Game Design, Game Art basics, and Problem Solving\*\* &#x20;
-\- 🎮 I enjoy building cozy, polished mini-games and joining \*\*game jams\*\*
+### 🐺 HEARTBOUND
 
-\<br clear="both"/>
+A 2D roguelite inspired by Egyptian mythology, featuring Anubis, the Duat, and Set. Developed during the IEEE Victories Game Jam.
 
-\---
+`Unity` `C#` `2D Roguelite` `Game Design`
 
-\## \<img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)" width="40"> Connect with me
+### 🎮 Educational Game — Pygame + OpenCV
 
-\<div align="center">
+An interactive educational game that uses a webcam to create an engaging learning experience.
 
-[![Facebook]\([https://img.shields.io/badge/Facebook-ff66b2?style=for-the-badge&logo=facebook&logoColor=white)\](https://www.facebook.com/maryam.ahmed.86248/](https://img.shields.io/badge/Facebook-ff66b2?style=for-the-badge\&logo=facebook\&logoColor=white\)]\(https://www.facebook.com/maryam.ahmed.86248/)) &#x20;
-[![LinkedIn]\([https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white)\](https://www.linkedin.com/in/maryam-ahmed-648435266/](https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge\&logo=linkedin\&logoColor=white\)]\(https://www.linkedin.com/in/maryam-ahmed-648435266/)) &#x20;
-[![Email]\([https://img.shields.io/badge/Email-Contact%20me-ffa6c9?style=for-the-badge&logo=gmail&logoColor=white)\](mailto:maryamahmedb17@gmail.com](https://img.shields.io/badge/Email-Contact%20me-ffa6c9?style=for-the-badge\&logo=gmail\&logoColor=white\)]\(mailto:maryamahmedb17@gmail.com))
+`Python` `Pygame` `OpenCV`
 
-\</div>
+### 🐍 Snake Game — Assembly
 
-\---
+A classic Snake game built entirely using Assembly language, focusing on low-level programming logic and graphics.
 
-\## \<img src="[https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif](https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif)" width="40"> Technologies & Tools
+`Assembly` `x86`
 
-\<div align="center">
+### 📇 Contact Manager — C#
 
-![C#]\([https://img.shields.io/badge/-C%23-ff4da6?style=for-the-badge&logo=csharp&logoColor=white](https://img.shields.io/badge/-C%23-ff4da6?style=for-the-badge\&logo=csharp\&logoColor=white)) &#x20;
-![Unity]\([https://img.shields.io/badge/-Unity-ff66b2?style=for-the-badge&logo=unity&logoColor=white](https://img.shields.io/badge/-Unity-ff66b2?style=for-the-badge\&logo=unity\&logoColor=white)) &#x20;
-![C++]\([https://img.shields.io/badge/-C++-ff4da6?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/-C++-ff4da6?style=for-the-badge\&logo=cplusplus\&logoColor=white)) &#x20;
-![Problem Solving]\([https://img.shields.io/badge/-Problem%20Solving-ff66b2?style=for-the-badge&logo=code&logoColor=white](https://img.shields.io/badge/-Problem%20Solving-ff66b2?style=for-the-badge\&logo=code\&logoColor=white))
+A desktop application to add, edit, and manage contacts while applying object-oriented programming principles.
 
-\</div>
+`C#` `OOP` `WinForms / WPF`
 
-\---
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pmOHByOHh6dTcxbmQxcGxtdTM0cTNxdTRsY3hqcWk4cWdteDd3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ZLrD6D1EPXaOPfsl9/giphy.gif" alt="GIF" width="500"/>
+</p>
 
-\## \<img src="[https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif](https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif)" width="40"> GitHub Stats & Top Languages
+<div align="center">
 
-\<div align="center">
-&#x20; \<table>
-&#x20;   \<tr>
-&#x20;     \<td>
-&#x20;       \<img src="[https://github-readme-stats.vercel.app/api?username=maryamahmed0&show_icons=true&title_color=ff4da6&icon_color=ff66b2&text_color=ffffff&bg_color=0d1117&border_color=ff66b2&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=maryamahmed0\&show_icons=true\&title_color=ff4da6\&icon_color=ff66b2\&text_color=ffffff\&bg_color=0d1117\&border_color=ff66b2\&hide_border=true\&include_all_commits=true\&count_private=true)" alt="Maryam's GitHub Stats" />
-&#x20;     \</td>
-&#x20;     \<td>
-&#x20;       \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=maryamahmed0&layout=compact&title_color=ff4da6&text_color=ffffff&bg_color=0d1117&border_color=ff66b2&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamahmed0\&layout=compact\&title_color=ff4da6\&text_color=ffffff\&bg_color=0d1117\&border_color=ff66b2\&hide_border=true\&langs_count=8)" alt="Maryam's Top Languages" />
-&#x20;     \</td>
-&#x20;   \</tr>
-&#x20; \</table>
-\</div>
+</div>
 
-\<div align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com/?user=maryamahmed0&background=0D1117&ring=ff4da6&fire=ff66b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff66b2&sideLabels=ff4da6&dates=cccccc&border=ff66b2&hide_border=true](https://streak-stats.demolab.com/?user=maryamahmed0\&background=0D1117\&ring=ff4da6\&fire=ff66b2\&currStreakNum=ffffff\&sideNums=ffffff\&currStreakLabel=ff66b2\&sideLabels=ff4da6\&dates=cccccc\&border=ff66b2\&hide_border=true)" alt="GitHub Streak"/>
-\</div>
+---
 
-\---
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-\## \<img src="[https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif](https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif)" width="40"> Projects
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-\- 🎮 \*\*Educational Game with Pygame + OpenCV\*\* — interactive learning using a webcam &#x20;
-&#x20; \`Python\` \`Pygame\` \`OpenCV\` • [Repo]\([https://github.com/maryamahmed0/Catch-the-cuties](https://github.com/maryamahmed0/Catch-the-cuties))
+- 🎓 Computer Science Graduate from **Mansoura University**.
+- 🌸 Currently enrolled in **ITI's 9-Month Professional Training Program – Game Programming Track (Intake 47)**.
+- 🎮 Passionate about developing games using **Unity and C#**.
+- 💻 Interested in Game Programming, OOP, Data Structures, and Problem Solving.
+- 🌱 Always exploring new techniques and improving my game development skills.
+- 👯 Open to collaborating on game development projects, game jams, and creative ideas.
+- ✨ I enjoy turning creative ideas into fun and engaging gaming experiences.
 
-\- 🐍 \*\*Snake Game (Assembly)\*\* — classic snake game built entirely with Assembly language, focusing on low-level logic & graphics &#x20;
-&#x20; \`Assembly\` \`x86\` • [Repo]\([https://github.com/maryamahmed0/Assymbly8086_SnakeGame](https://github.com/maryamahmed0/Assymbly8086_SnakeGame))
+<br clear="both"/>
 
-\- 📇 \*\*Contact Manager (OOP in C#)\*\* — desktop app to add, edit, and manage contacts, applying object-oriented principles &#x20;
-&#x20; \`C#\` \`OOP\` \`WinForms/WPF\` • [Repo]\([https://github.com/maryamahmed0/Contact-Manager](https://github.com/maryamahmed0/Contact-Manager))
+---
 
-\---
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me
 
-\## \<img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)" width="40"> Let's Collaborate
+<div align="center">
 
-If you enjoy \*\*cozy vibes, game jams, and creative coding\*\*, &#x20;
-I'd love to team up for:
-\- 🎮 \*\*Game jam entries & competitions\*\* &#x20;
-\- 🌱 Exploring \*\*2D / 3D game development\*\* & advanced programming &#x20;
+</div>
 
-Feel free to reach out — I'm always happy to connect with fellow devs & artists! 🌷
+---
 
-\---
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Technologies & Tools
 
-\<p align="center">
-&#x20; \<picture>
-&#x20;   \<source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-dark.svg?ts=5](https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-dark.svg?ts=5)" />
-&#x20;   \<source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-light.svg?ts=5](https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-light.svg?ts=5)" />
-&#x20;   \<img alt="Snake animation" src="[https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-dark.svg?ts=5](https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-dark.svg?ts=5)" width="720" />
-&#x20; \</picture>
-\</p>
+<div align="center">
 
-\---
+</div>
 
-\<div align="center">
+---
 
-\### \<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)" width="30"> Thanks for visiting! \<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)" width="30">
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> GitHub Stats & Top Languages
 
-\</div>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=maryamahmed0&show_icons=true&title_color=F7A8C4&icon_color=E8A6D9&text_color=ffffff&bg_color=0d1117&border_color=E8A6D9&hide_border=true&include_all_commits=true&count_private=true" alt="Maryam's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamahmed0&layout=compact&title_color=F7A8C4&text_color=ffffff&bg_color=0d1117&border_color=E8A6D9&hide_border=true&langs_count=8" alt="Maryam's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=maryamahmed0&background=0D1117&ring=F7A8C4&fire=E8A6D9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=E8A6D9&sideLabels=F7A8C4&dates=cccccc&border=E8A6D9&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Projects
+
+- 🍊 **Overripe** — A 2D fruit-themed platformer where time is your health. Fight corrupted fruit bosses, manage your remaining time, and uncover the story behind the rot.
+
+  `Unity` `C#` `2D Game Development` `Game Jam`
+
+  [Play on Itch.io](https://maryamahmed0.itch.io/overripe)
+
+- 🐺 **HEARTBOUND** — A 2D roguelite inspired by Egyptian mythology, featuring Anubis, the Duat, and Set. Developed during the IEEE Victories Game Jam.
+
+  `Unity` `C#` `2D Roguelite` `Game Design`
+
+- 🎮 **Educational Game with Pygame + OpenCV** — An interactive educational game that uses a webcam to create an engaging learning experience.
+
+  `Python` `Pygame` `OpenCV`
+
+  [Repository](https://github.com/maryamahmed0/Catch-the-cuties)
+
+- 🐍 **Snake Game (Assembly)** — A classic Snake game built using Assembly language, focusing on low-level programming logic and graphics.
+
+  `Assembly` `x86`
+
+  [Repository](https://github.com/maryamahmed0/Assymbly8086_SnakeGame)
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Community & Leadership
+
+- 🌸 **CAT Reloaded – Game Development Circle**
+  - Progressed from Circle Member to **Head of the Game Development Circle**.
+  - Mentored around 10 members in their game development journey.
+  - Delivered a session introducing 2D game development concepts.
+  - Contributed to organizing and supporting community activities, including CAT Station.
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Collaborate
+
+If you enjoy **game development, creative coding, and game jams**, I'd love to team up for:
+
+- 🎮 Game jam entries and competitions.
+- 🌱 Exploring new ideas in 2D and 3D game development.
+- 💻 Building creative projects with Unity and C#.
+- ✨ Learning, experimenting, and creating memorable gaming experiences.
+
+Feel free to reach out — I'm always happy to connect with fellow developers and artists! 🌷
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-dark.svg?ts=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-light.svg?ts=5" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/maryamahmed0/maryamahmed0/output/snake-dark.svg?ts=5" width="720" />
+  </picture>
+</p>
+
+---
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Thanks for visiting! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+
+</div>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> GitHub Stats & Top Languages
+
+<div align="center">
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=maryamahmed0&show_icons=true&title_color=F7A8C4&icon_color=E8A6D9&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Maryam's GitHub Stats" />
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=maryamahmed0&layout=compact&title_color=F7A8C4&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" alt="Maryam's Top Languages" />
+
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=maryamahmed0&background=0D1117&ring=F7A8C4&fire=E8A6D9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=E8A6D9&sideLabels=F7A8C4&dates=cccccc&border=E8A6D9&hide_border=true&timezone=Africa%2FCairo" alt="GitHub Streak"/>
+</div>
