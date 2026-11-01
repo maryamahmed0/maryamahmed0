@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=F7A8C4&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Maryam!+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Unity+Developer+%E2%9A%99%EF%B8%8F;C%23+Programmer+%F0%9F%92%8E;Turning+Ideas+Into+Games+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=9B8AB8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Maryam!+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Unity+Developer+%E2%9A%99%EF%B8%8F;C%23+Programmer+%F0%9F%92%8E;Turning+Ideas+Into+Games+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/maryamahmed0?style=social&label=Follow)](https://github.com/maryamahmed0)
-![Profile views](https://komarev.com/ghpvc/?username=maryamahmed0&style=flat&label=Views&color=FFC6D9)
+![Profile views](https://komarev.com/ghpvc/?username=maryamahmed0&style=flat&label=Views&color=6B5B87)
 
 </div>
 
@@ -35,10 +35,10 @@
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-F7A8C4?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maryam.ahmed.86248/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E8A6D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-ahmed-648435266/)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-FFC6D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamahmedb17@gmail.com)
-[![Itch.io](https://img.shields.io/badge/Itch.io-F7A8C4?style=for-the-badge&logo=itch.io&logoColor=white)](https://maryamahmed0.itch.io)
+[![Facebook](https://img.shields.io/badge/Facebook-6B5B87?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maryam.ahmed.86248/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8573A3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-ahmed-648435266/)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-9B8AB8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamahmedb17@gmail.com)
+[![Itch.io](https://img.shields.io/badge/Itch.io-B8A5D6?style=for-the-badge&logo=itch.io&logoColor=white)](https://maryamahmed0.itch.io)
 
 </div>
 
@@ -48,12 +48,12 @@
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/-C%23-F7A8C4?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-E8A6D9?style=for-the-badge&logo=unity&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-FFC6D9?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-DDA0DD?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-F7A8C4?style=for-the-badge&logo=github&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-E8A6D9?style=for-the-badge&logo=code&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-6B5B87?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-8573A3?style=for-the-badge&logo=unity&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-9B8AB8?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-6B5B87?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-8573A3?style=for-the-badge&logo=github&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-9B8AB8?style=for-the-badge&logo=code&logoColor=white)
 
 </div>
 
@@ -63,14 +63,14 @@
 
 <div align="center">
 
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=maryamahmed0&show_icons=true&title_color=F7A8C4&icon_color=E8A6D9&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Maryam's GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=maryamahmed0&show_icons=true&title_color=C9B8E3&icon_color=9B8AB8&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Maryam's GitHub Stats" />
 
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=maryamahmed0&layout=compact&title_color=F7A8C4&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" alt="Maryam's Top Languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=maryamahmed0&layout=compact&title_color=C9B8E3&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" alt="Maryam's Top Languages" />
 
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=maryamahmed0&background=0D1117&ring=F7A8C4&fire=E8A6D9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=E8A6D9&sideLabels=F7A8C4&dates=cccccc&border=E8A6D9&hide_border=true&timezone=Africa%2FCairo" alt="GitHub Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=maryamahmed0&background=0D1117&ring=9B8AB8&fire=C9B8E3&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9B8AB8&sideLabels=C9B8E3&dates=cccccc&border=6B5B87&hide_border=true&timezone=Africa%2FCairo" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -85,7 +85,7 @@ A collaborative platform featuring a multiplayer **2D Virtual Office** built wit
 
 `Unity` `C#` `Netcode for GameObjects` `ASP.NET Core` `Entity Framework` `AI`
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-F7A8C4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/VirtualOffice)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-6B5B87?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/VirtualOffice)
 
 <br />
 
@@ -95,8 +95,8 @@ A 2D fruit-themed platformer where time is your health. Fight corrupted fruit bo
 
 `Unity` `C#` `2D Game Development` `Game Jam`
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-E8A6D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/overripe)
-[![Itch.io](https://img.shields.io/badge/Itch.io-Play%20Game-FFC6D9?style=for-the-badge&logo=itch.io&logoColor=white)](https://maryamahmed0.itch.io/overripe)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-8573A3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/overripe)
+[![Itch.io](https://img.shields.io/badge/Itch.io-Play%20Game-B8A5D6?style=for-the-badge&logo=itch.io&logoColor=white)](https://maryamahmed0.itch.io/overripe)
 
 <br />
 
@@ -106,7 +106,7 @@ A 2D roguelite inspired by Egyptian mythology, featuring Anubis, the Duat, and S
 
 `Unity` `C#` `2D Roguelite` `Game Design`
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-F7A8C4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/HeartBound)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-6B5B87?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/HeartBound)
 
 <br />
 
@@ -116,7 +116,7 @@ An interactive educational game that uses a webcam to create an engaging learnin
 
 `Python` `Pygame` `OpenCV`
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-E8A6D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/Catch-the-cuties)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-8573A3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/Catch-the-cuties)
 
 <br />
 
@@ -126,7 +126,7 @@ A classic Snake game built entirely using Assembly language, focusing on low-lev
 
 `Assembly` `x86`
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-F7A8C4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/Assymbly8086_SnakeGame)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-6B5B87?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/Assymbly8086_SnakeGame)
 
 </div>
 
@@ -170,4 +170,3 @@ Feel free to reach out — I'm always happy to connect with fellow developers an
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Thanks for visiting! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 </div>
-```
