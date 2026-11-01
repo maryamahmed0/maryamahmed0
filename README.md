@@ -102,7 +102,7 @@ A collaborative platform featuring a multiplayer **2D Virtual Office** built wit
 <tr>
 <td valign="top" width="50%">
 
-### 🍊 Overripe
+### 🍌 Overripe
 
 A 2D fruit-themed platformer where time is your health. Fight corrupted fruit bosses, manage your remaining time, and uncover the story behind the rot.
 
