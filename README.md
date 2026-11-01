@@ -19,7 +19,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<img align="right" hspace="30" vspace="0" alt="Coding" width="460" src="https://media1.tenor.com/m/CiJuhjUFaeIAAAAC/gojo-satoru-jujutsu-kaisen.gif">
+<img align="right" hspace="30" vspace="0" alt="Coding" width="300" src="https://media1.tenor.com/m/CiJuhjUFaeIAAAAC/gojo-satoru-jujutsu-kaisen.gif">
 
 - 🎓 Computer Science Graduate from **Mansoura University**.
 - 🌸 Currently enrolled in **ITI's 9-Month Professional Training Program – Game Programming Track (Intake 47)**.
@@ -77,6 +77,10 @@
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Featured Projects
 
+<table>
+<tr>
+<td colspan="2" valign="top">
+
 ### 🏢 SyncVerse — Graduation Project
 
 A collaborative platform featuring a multiplayer **2D Virtual Office** built with Unity, allowing team members to interact, collaborate, manage tasks, and attend virtual meetings. Includes multiplayer networking and AI-powered meeting features.
@@ -85,9 +89,8 @@ A collaborative platform featuring a multiplayer **2D Virtual Office** built wit
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-FF8FB8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamahmed0/VirtualOffice)
 
-<br />
-
-<table>
+</td>
+</tr>
 <tr>
 <td valign="top" width="50%">
 
