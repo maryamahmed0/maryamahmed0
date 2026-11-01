@@ -19,7 +19,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<img align="right" alt="Coding" width="320" src="https://tenor.com/btneY.gif">
+<img align="right" alt="Coding" width="320" src="https://media1.tenor.com/m/CiJuhjUFaeIAAAAC/gojo-satoru-jujutsu-kaisen.gif">
 
 - 🎓 Computer Science Graduate from **Mansoura University**.
 - 🌸 Currently enrolled in **ITI's 9-Month Professional Training Program – Game Programming Track (Intake 47)**.
