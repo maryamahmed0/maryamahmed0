@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F4b3N3eXh5b3V6bGZ4d3B6bW9mN3J3aGZ0b3J4eGJ4b3Z3eGZ6ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="350" alt="Cute coding animation" />
+  <img src="رابط الـ GIF القديمة" width="350" alt="Cute coding animation" />
 </p>
 
 <p align="center">
