@@ -63,17 +63,15 @@
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> GitHub Stats & Top Languages
 
-<div align="center">
+<p align="center">
+  <img height="190" src="https://github-stats-extended.vercel.app/api?username=maryamahmed0&show_icons=true&title_color=FF8FB8&icon_color=FFB6D0&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Maryam's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs/?username=maryamahmed0&layout=compact&title_color=FF8FB8&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" alt="Maryam's Top Languages" />
+</p>
 
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=maryamahmed0&show_icons=true&title_color=FF8FB8&icon_color=FFB6D0&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Maryam's GitHub Stats" />
-
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=maryamahmed0&layout=compact&title_color=FF8FB8&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" alt="Maryam's Top Languages" />
-
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=maryamahmed0&background=0D1117&ring=FF8FB8&fire=FFB6D0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF8FB8&sideLabels=FFB6D0&dates=cccccc&border=FF8FB8&hide_border=true&timezone=Africa%2FCairo" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img height="190" src="https://streak-stats.demolab.com/?user=maryamahmed0&background=0D1117&ring=FF8FB8&fire=FFB6D0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF8FB8&sideLabels=FFB6D0&dates=cccccc&border=FF8FB8&hide_border=true&timezone=Africa%2FCairo" alt="GitHub Streak"/>
+</p>
 
 ---
 
